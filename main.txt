@@ -1,0 +1,18 @@
+Câu 1:
+-SELECT dùng để truy vấn dữ liệu từ cơ sở dữ liệu.
+-Nó không làm thay đổi dữ liệu trong cơ sở dữ liệu.
+-SELECT cho phép chọn các cột cụ thể hoặc tính toán các giá trị từ các cột.
+-Có thể kết hợp với các câu lệnh khác như WHERE, ORDER BY, GROUP BY, JOIN để làm phong phú hơn truy vấn.
+-SELECT cũng được sử dụng để tạo view, một tập hợp kết quả của một truy vấn SELECT.
+
+Câu 2:
+D
+
+Câu 3:
+A
+
+Câu 4:
+C
+
+Câu 5:
+D
